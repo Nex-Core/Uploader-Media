@@ -19,7 +19,7 @@ module.exports = {
   quotes: [
   `_"selamat berbahagia dengan orang barumu, aku masih disini untuk menunggu. perihal kapan kamu akan kembali, aku masih mengharapkan itu terjadi, semestaku."_\n\n- Elliaa`,
  
-   `"Waktu itu singkat, dunia itu wadah, apa yang kamu lakukan pasti kembali ke awal di mana engkau hidup dan mati"\n\n—Airani`,
+   `_"Waktu itu singkat, dunia itu wadah, apa yang kamu lakukan pasti kembali ke awal di mana engkau hidup dan mati"_\n\n- Airani`,
   ]
 };
 
