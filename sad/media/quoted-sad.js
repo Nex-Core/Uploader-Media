@@ -15,7 +15,7 @@ module.exports = {
   ],
 
   quotes: [
-    `_"Lebih baik dipendam, daripada merusak suasana hanya karena ingin dimengerti"_\n\n- DamzXD`
+    `_"Lebih baik dipendam, daripada merusak suasana hanya karena ingin dimengerti"_\n\n- DamzXD`, 
 
     `_"Aku sangat bahagia jika kamu bahagia di dekatku, bukan di dekatnya"_\n\n- Fezy`,
 
