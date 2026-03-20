@@ -11,253 +11,231 @@ module.exports = {
     "Jangan terlalu berharap, nanti sakit sendiri.",
     "Kesepian lebih baik daripada hubungan toxic.",
     "Tersenyumlah meskipun hatimu terluka.",
-    "Cinta bisa datang kapan saja, tak perlu dipaksa."
+    "Cinta bisa datang kapan saja, tak perlu dipaksa.",
+    "Tidak semua luka terlihat dari luar.",
+    "Kehilangan seseorang itu menyakitkan.",
+    "Waktu tidak selalu menyembuhkan luka.",
+    "Ada rindu yang tak bisa diungkapkan.",
+    "Diam adalah bahasa dari hati yang lelah.",
+    "Terkadang perpisahan lebih baik dari kepalsuan.",
+    "Bukan soal siapa yang pergi, tapi siapa yang bertahan.",
+    "Cinta yang tulus tidak pernah minta banyak.",
+    "Hati yang patah butuh waktu untuk sembuh.",
+    "Jangan menangis untuk orang yang tidak peduli.",
+    "Kesendirian mengajarkan kita mengenal diri sendiri.",
+    "Luka dari orang yang disayang lebih dalam.",
+    "Tidak apa-apa untuk tidak baik-baik saja.",
+    "Kadang rindu itu menyiksa tanpa solusi.",
+    "Pergi tanpa pamit adalah luka yang paling dalam.",
+    "Mencintai dari jauh itu menyakitkan tapi indah.",
+    "Semua orang menyembunyikan luka dengan senyuman.",
+    "Hidup terus berjalan meski hati sedang berhenti."
   ],
 
   quotes: [
     `_"Tersenyumlah untuk menutupi kesedihanmu. Tidak semua orang akan peduli"_\n\n- Rizki`,
-
     `_"Akan ada masanya buku lama dibuka kembali"_\n\n- NexCore`,
-
     `_"mencintaimu seperti hujan: awalnya senang, akhirnya sakit"_\n\n- DanuKiding`,
-
     `_"Kita harus menciptakan makna sendiri di kehidupan yang tidak bermakna"_\n\n- Veann`,
-
     `_"Sendiri itu tenang, tidak ada pertengkaran, kebohongan, dan aturan"_\n\n- NexCore`,
-
     `_"Cerita cinta indah tanpa masalah itu cuma di dongeng"_\n\n- NexCore`,
-    
     `_"Tersenyumlah pada orang yang menyakitimu, agar ia tahu arti kesabaran"_\n\n- Ki`,
-
-    `_"Cinta tak bisa dijelaskan dengan kata-kata, karena cinta hanya bisa dirasakan oleh hati"_\n\n- Dewi`, 
-      
+    `_"Cinta tak bisa dijelaskan dengan kata-kata, karena cinta hanya bisa dirasakan oleh hati"_\n\n- Dewi`,
     `_"Bisakah kita tidak bermusuhan setelah berpisah? Aku ingin seperti dulu: seru-seruan bareng"_\n\n- Arpan`,
-    
-    `_"Lebih baik dipendam, daripada merusak suasana hanya karena ingin dimengerti"_\n\n- DamzXD`, 
-
+    `_"Lebih baik dipendam, daripada merusak suasana hanya karena ingin dimengerti"_\n\n- DamzXD`,
     `_"Aku sangat bahagia jika kamu bahagia di dekatku, bukan di dekatnya"_\n\n- Fezy`,
-
     `_"Jangan iri dan sedih jika kamu tidak memiliki kemampuan seperti orang lain. Yakinlah orang lain juga tidak memiliki kemampuan sepertimu"_\n\n- NexCore`,
-
-    `_"Dirimu yang awalnya sendirian tau apa tentang kesendirianku. Sejak aku kehilangan semua yang ada di hidupku, cara ku melihat dunia sudah berbeda… Yang ada hanyalah penderitaan"_\n\n- Ahmad`,
-
+    `_"Dirimu yang awalnya sendirian tau apa tentang kesendirianku. Sejak aku kehilangan semua yang ada di hidupku, cara terbaik untuk hidup adalah sendiri"_\n\n- NexCore`,
     `_"Hidup itu singkat, nyawa itu satu, takdir itu tidak tahu pada akhirnya semua akan kembali ke tanah"_\n\n- Novalia`,
-      
     `_"berawal dari orang asing, saling mencintai, dan kembali menjadi orang asing"_\n\n- Lidya`,
-
     `_"tidak ada yg istimewa dariku, semua akan pergi setelah mengenalku lebih dalam"_\n\n- Aldiaep`,
-
     `_"kita akan dihargai jika memiliki kesempurnaan"_\n\n- Yuriko`,
-    
     `_"dekatnya kita adalah hal yang tak ku duga, dan asingnya kita adalah hal yang tak ku inginkan"_\n\n- Lidya`,
-
     `_"terkadang cinta itu menyakitkan, bagi kita yang memiliki banyak kekurangan"_\n\n- Aldiaep`,
-  
-    `_"selamat berbahagia dengan orang barumu, aku masih disini untuk menunggu. perihal kapan kamu akan kembali, aku masih mengharapkan itu terjadi, semestaku."_\n\n- Elliaa`,
- 
-   `_"Waktu itu singkat, dunia itu wadah, apa yang kamu lakukan pasti kembali ke awal di mana engkau hidup dan mati"_\n\n- Airani`,
+    `_"selamat berbahagia dengan orang barumu, aku masih disini untuk menunggu. perihal kapan kamu akan kembali, aku masih yakin kamu akan kembali"_\n\n- NexCore`,
+    `_"Waktu itu singkat, dunia itu wadah, apa yang kamu lakukan pasti kembali ke awal di mana engkau hidup dan mati"_\n\n- NexCore`,
+    `_"Sakit itu ketika cinta yang kuberi tidak kamu harg"_\n\n- Randi`,
+    `_"Aku ingat kenangan pahit itu dan menjadikannya pelajaran untuk masa depan"_\n\n- Randi`,
+    `_"Kalau kamu tak sanggup menepati janji, setidaknya jangan biarkan aku menunggu sia-sia"_\n\n- Dapa`,
+    `_"Yang setia dan baik sering ditinggalkan. Yang nakal dikejar. Lalu disalahkan: 'laki-laki itu sama saja'"_\n\n- FelNexus`,
+    `_"Walaupun sebentar kau bahagiakanku, rasanya sulit kulupakan"_\n\n- Gucit`,
+    `_"Aku tak menyangka kamu pergi dan melupakanku secepat itu"_\n\n- Ipan`,
+    `_"Jomblo bukan berarti kesepian. Malam minggu bisa jalan sendiri, bareng teman, atau bareng setan pun bisa"_\n\n- Aldi`,
+    `_"Kamu adalah teman yang selalu ada di sampingku dalam senang dan susah"_\n\n- Adit`,
+    `_"Aku tak tahu di hatimu itu ada aku atau dia"_\n\n- Wisnu`,
+    `_"Tak mudah melupakanmu karena aku sangat mencintaimu, meski kau sering menyakitiku"_\n\n- NexCore`,
+    `_"Cinta pertama itu indah, tapi cinta yang tulus itu lebih berharga"_\n\n- Kahlil Gibran`,
+    `_"Hati yang pernah mencintai tidak pernah lupa"_\n\n- Oscar Wilde`,
+    `_"Lebih baik pernah mencintai dan kehilangan daripada tidak pernah mencintai sama sekali"_\n\n- Alfred Lord Tennyson`,
+    `_"Cinta sejati adalah ketika kamu menangisi seseorang di dalam hatimu sambil tersenyum di hadapannya"_\n\n- Ferliss`,
+    `_"Kamu tidak bisa mencegah burung kesedihan terbang di atas kepalamu, tapi kamu bisa mencegahnya bersarang di rambutmu"_\n\n- Pepatah Cina`,
+    `_"Kesedihan adalah harga yang kita bayar untuk cinta"_\n\n- Queen Elizabeth II`,
+    `_"Tidak ada kepedihan yang lebih besar dari membawa kenangan pahit dalam kesendirian"_\n\n- Dante Alighieri`,
+    `_"Air mata adalah bahasa diam dari kesedihan yang terlalu dalam untuk diucapkan"_\n\n- Voltaire`,
+    `_"Lebih baik mati karena cinta daripada hidup tanpa mencintai"_\n\n- George Chapman`,
+    `_"Setiap orang punya luka yang tidak terlihat dari luar"_\n\n- Ernest Hemingway`,
+    `_"Aku belajar bahwa orang akan lupa apa yang kamu katakan, orang akan lupa apa yang kamu lakukan, tapi orang tidak akan pernah lupa bagaimana kamu membuat mereka merasa"_\n\n- Maya Angelou`,
+    `_"Kesulitan terbesar adalah bukan ketika tidak ada yang peduli, tapi ketika kamu peduli terlalu banyak"_\n\n- Dafa`,
+    `_"Di balik setiap orang kuat ada masa lalu yang tidak mereka bicarakan"_\n\n- Formuso Is Kontole`,
+    `_"Waktu tidak menyembuhkan semua luka, tapi mengajarkan kita cara hidup dengannya"_\n\n- Yon`,
+    `_"Ketika kamu lelah, belajarlah beristirahat, bukan menyerah"_\n\n- Banksy`,
+    `_"Jiwa yang sedih membutuhkan tempat yang sunyi, bukan kebisingan"_\n\n- Victor Hugo`,
+    `_"Cinta yang tidak berbalas adalah cinta yang paling menyakitkan"_\n\n- Rumi`,
+    `_"Kadang kita harus kehilangan seseorang untuk menyadari betapa pentingnya mereka"_\n\n- Paulo Coelho`,
+    `_"Rindu itu berat, tapi melepaskan lebih berat"_\n\n- Ayon`,
+    `_"Perpisahan bukan akhir dari cerita, tapi awal dari babak baru"_\n\n- C.S. Lewis`,
+    `_"Hidupku bukan milikku sendiri, ada orang-orang yang kutinggalkan di setiap tempat yang pernah kukunjungi"_\n\n- Cesare Pavese`,
+    `_"Cinta yang pergi meninggalkan bekas yang tidak pernah hilang sepenuhnya"_\n\n- Fyodor Dostoevsky`,
+    `_"Sendirian tidak selalu berarti kesepian, dan bersama tidak selalu berarti tidak kesepian"_\n\n- C.S. Lewis`,
+    `_"Kamu tidak akan pernah tahu betapa kuatnya kamu sampai menjadi kuat adalah satu-satunya pilihan"_\n\n- Bob Marley`,
+    `_"Terkadang yang paling menyakitkan bukan perpisahan itu sendiri, tapi semua kenangan yang menyertainya"_\n\n- Frizz`,
+    `_"Orang yang pernah kamu cintai tidak akan pernah benar-benar pergi, mereka hidup dalam caramu mencintai orang lain"_\n\n- Rupi Kaur`,
+    `_"Hatiku seperti gelas yang sudah retak, masih bisa menampung air tapi tidak akan pernah sama seperti sebelumnya"_\n\n- Dilan`,
+    `_"Mencintai seseorang yang tidak mencintaimu seperti menunggu kapal di bandara"_\n\n- Liana`,
+    `_"Aku tidak takut badai, karena aku belajar berlayar di tengahnya"_\n\n- Louisa May Alcott`,
+    `_"Luka tidak membunuhmu, tapi mengubahmu menjadi seseorang yang berbeda"_\n\n- Ferliss`,
+    `_"Semua yang indah pasti akan berakhir, dan semua yang berakhir pasti pernah indah"_\n\n- FelNexus`,
+    `_"Jangan menangis karena sudah berakhir, tersenyumlah karena pernah terjadi"_\n\n- Dr. Seuss`,
+    `_"Kadang hati kita patah oleh orang yang tidak pernah tahu betapa pentingnya mereka"_\n\n- Friedrich Nietzsche`,
+    `_"Aku telah belajar bahwa orang yang paling bahagia tidak selalu memiliki hal terbaik, mereka hanya membuat yang terbaik dari semua yang mereka miliki"_\n\n- Arya`,
+    `_"Luka mengajarkan kita untuk lebih berhati-hati dengan hati kita sendiri"_\n\n- Dika`,
+    `_"Malam selalu datang sebelum fajar"_\n\n- Paulo Coelho`,
+    `_"Pergi bukan berarti melupakan, tetap tinggal bukan berarti mencintai"_\n\n- Dika`,
+    `_"Terkadang kamu harus menyakiti seseorang untuk menyelamatkan mereka"_\n\n- Moon`,
+    `_"Cinta yang hilang adalah seperti bintang yang padam, masih bisa kamu lihat tapi cahayanya sudah tidak ada lagi"_\n\n- Cintia`,
+    `_"Aku menghabiskan waktu lama untuk mempelajari cara hidup dengan kepedihan"_\n\n- Virginia Woolf`,
+    `_"Hati yang terluka butuh waktu dan ketenangan untuk sembuh"_\n\n- Asbi`,
+    `_"Lebih mudah memaafkan musuh daripada memaafkan teman yang mengkhianati"_\n\n- William Blake`,
+    `_"Ada kepedihan yang tidak bisa dijelaskan dengan kata-kata"_\n\n- Abi`,
+    `_"Ketika kamu mencintai seseorang, kamu memberikan mereka kekuatan untuk menyakitimu"_\n\n- Samsul`,
+    `_"Perpisahan terbaik adalah yang tidak pernah terjadi"_\n\n- Render`,
+    `_"Setelah hujan pasti ada pelangi, setelah luka pasti ada kebangkitan"_\n\n- Haidar`,
+    `_"Jangan berduka terlalu lama, hidup terus berjalan"_\n\n- J.R.R. Tolkien`,
+    `_"Kenangan indah adalah milik masa lalu, jangan biarkan menghantui masa depanmu"_\n\n- Endong`,
+    `_"Cinta bukan tentang memiliki, tapi tentang memberi"_\n\n- Khalil Gibran`,
+    `_"Saat terindah adalah saat kamu tahu kamu dicintai apa adanya"_\n\n- Lewak`,
+    `_"Hati yang tulus tidak pernah membutuhkan kata-kata untuk membuktikan cintanya"_\n\n- Reja`,
+    `_"Kamu tidak bisa mengubah orang lain, kamu hanya bisa mengubah dirimu sendiri"_\n\n- Eja`,
+    `_"Kepedihan adalah bagian dari cinta, tanpa rasa sakit cinta tidak lengkap"_\n\n- Leo Tolstoy`,
+    `_"Hidup terlalu singkat untuk dihabiskan dengan orang yang tidak menghargaimu"_\n\n- Fusi`,
+    `_"Mungkin semua naga dalam hidupku sebenarnya adalah putri yang menunggu untuk dilihat dengan cara yang berbeda"_\n\n- Rainer Maria Rilke`,
+    `_"Tidak ada yang permanen dalam kehidupan yang berubah ini kecuali perubahan itu sendiri"_\n\n- Heraclitus`,
+    `_"Kesedihan terdalam adalah ketika kamu merasa sendiri di tengah keramaian"_\n\n- Awan`,
+    `_"Terluka bukan berarti lemah, itu tandanya kamu pernah berani untuk mencintai"_\n\n- Shawal`,
+    `_"Cinta yang tulus tidak membutuhkan pengorbanan, ia tumbuh dari keikhlasan"_\n\n- Ahmad`,
+    `_"Setiap perpisahan adalah sebuah kematian kecil"_\n\n- George Eliot`,
+    `_"Hidup ini penuh misteri, termasuk mengapa orang yang kita cintai meninggalkan kita"_\n\n- Azrill`,
+    `_"Kadang yang kita inginkan bukanlah yang kita butuhkan"_\n\n- Dika`,
+    `_"Cinta yang berakhir tidak selalu berarti cinta yang salah"_\n\n- Ferliss`,
+    `_"Setiap akhir adalah awal dari sesuatu yang baru"_\n\n- T.S. Eliot`,
+    `_"Kamu adalah penulis dari kisah hidupmu, jangan biarkan orang lain mengambil penamu"_\n\n- Paulo Coelho`,
+    `_"Tertawa di hadapan orang lain tapi menangis sendirian di malam hari, itulah kepedihan yang sesungguhnya"_\n\n- NexCore`,
+    `_"Aku ingin melupakan tapi kenangan tentangmu terlalu indah untuk dilupakan"_\n\n- Ferliss`,
+    `_"Tidak semua yang kita cintai akan kita miliki selamanya"_\n\n- FelNexus`,
+    `_"Ada kalanya diam adalah jawaban terbaik"_\n\n- Dalai Lama`,
+    `_"Ketika hatiku patah, aku belajar menjadi lebih kuat"_\n\n- Apel`,
+    `_"Cinta yang tulus terkadang membutuhkan keberanian untuk melepaskan"_\n\n- Doni`,
+    `_"Hidup tanpa cinta seperti pohon tanpa bunga dan buah"_\n\n- Khalil Gibran`,
+    `_"Satu-satunya cara untuk keluar dari kegelapan adalah dengan menghadapinya"_\n\n- Fuji`,
+    `_"Tidak ada luka yang tidak bisa sembuh, hanya butuh waktu yang tepat"_\n\n- Guji`,
+    `_"Kesedihan adalah bagian dari perjalanan hidup yang harus kita lalui"_\n\n- Elisabeth Kübler-Ross`,
+    `_"Jangan biarkan masa lalu yang gelap memadamkan cahaya masa depanmu"_\n\n- Ruji`,
+    `_"Setiap air mata yang jatuh adalah bukti bahwa kamu pernah peduli"_\n\n- Judi`,
+    `_"Hidup bukan tentang menunggu badai berlalu, tapi belajar menari di bawah hujan"_\n\n- Vivian Greene`,
+    `_"Kamu tidak akan pernah merasa sepenuhnya baik-baik saja, tapi kamu bisa belajar hidup dengan itu"_\n\n- Danu`,
+    `_"Luka yang paling dalam bukan dari orang yang membencimu, tapi dari orang yang kamu percaya"_\n\n- Yudha`,
+    `_"Cinta itu seperti bayangan, ketika kamu mengejarnya ia menjauh, ketika kamu berbalik ia mengikutimu"_\n\n- Goethe`,
+    `_"Aku mencintaimu dalam keheningan karena dalam keheningan aku tidak akan pernah ditolak"_\n\n- Istadz`,
+    `_"Kenangan adalah cara Tuhan mengizinkan kita untuk merasakan kembali momen yang indah"_\n\n- Danz`,
+    `_"Hidup adalah tentang menciptakan dirimu sendiri, bukan tentang menemukan dirimu sendiri"_\n\n- Bernard Shaw`,
+    `_"Tidak ada yang lebih menguras energi daripada mencintai seseorang yang tidak mencintaimu kembali"_\n\n- James Baldwin`,
+    `_"Rasa sakit itu nyata, tapi kamu juga nyata, dan kamu lebih kuat dari rasa sakitmu"_\n\n- Danx`,
+    `_"Lebih baik hidup dengan kebenaran yang menyakitkan daripada kebohongan yang menenangkan"_\n\n- Sigmund Freud`,
+    `_"Kadang yang kita butuhkan adalah seseorang yang mendengarkan tanpa menghakimi"_\n\n- Pler`,
+    `_"Hati yang hancur adalah hati yang pernah berani mencintai sepenuhnya"_\n\n- Muler`,
+    `_"Pergilah ke tempat di mana kamu merasa hidup"_\n\n- ANONIM`,
+    `_"Setiap hari adalah kesempatan untuk memulai kembali"_\n\n- ANONIM`,
+    `_"Mungkin kisah kita bukan tentang bersama, tapi tentang bagaimana kita saling mengubah"_\n\n- ANONIM`,
+    `_"Mencintaimu adalah hal terindah dan terberat yang pernah kulakukan"_\n\n- Anonim`,
+    `_"Rindu itu tidak memilih waktu, ia datang kapan saja tanpa permisi"_\n\n- ANONIM`,
+    `_"Aku lelah berpura-pura baik-baik saja padahal tidak"_\n\n- Anonim`,
+    `_"Ada orang-orang yang masuk dalam hidupmu dan mengubah segalanya"_\n\n- ANONIM`,
+    `_"Perpisahan mengajarkan kita nilai dari sebuah kebersamaan"_\n\n- ANONIM`,
+    `_"Tidak ada kata terlambat untuk memulai hidup baru"_\n\n- George Eliot`,
+    `_"Kebahagiaan bukan tentang memiliki segalanya, tapi tentang mensyukuri apa yang ada"_\n\n- Anonim`,
+    `_"Jika kamu tidak bisa terbang, larilah. Jika tidak bisa berlari, berjalanlah. Jika tidak bisa berjalan, merangkaklah. Apapun yang kamu lakukan, teruslah maju"_\n\n- Martin Luther King Jr`,
+    `_"Di balik senyuman yang paling indah sekalipun, terkadang tersembunyi kepedihan yang mendalam"_\n\n- ANONIM`,
+    `_"Tidak semua orang yang pergi meninggalkanmu, beberapa pergi untuk menemukan diri mereka sendiri"_\n\n- Anonim`,
+    `_"Hanya karena seseorang tidak mencintaimu dengan cara yang kamu inginkan, tidak berarti mereka tidak mencintaimu sepenuh hati"_\n\n- Gabriel Garcia Marquez`,
+    `_"Cintailah dirimu sendiri sebelum mencintai orang lain"_\n\n- RuPaul`,
+    `_"Orang yang paling kesepian adalah orang yang tidak pernah bisa berbagi kesedihannya"_\n\n- Fyodor Dostoevsky`,
+    `_"Rasa sakitmu valid, perasaanmu valid, kamu valid"_\n\n- ANONIM`,
+    `_"Terkadang kita harus melepaskan seseorang untuk menemukan diri kita sendiri"_\n\n- ANONIM`,
+    `_"Tidak ada yang lebih menyakitkan dari ketika seseorang yang kamu sayangi memilih untuk pergi"_\n\n- Anonim`,
+    `_"Keheningan malam sering menjadi saksi bisu dari air mata yang tidak terlihat siang hari"_\n\n- ANONIM`,
+    `_"Cinta yang sesungguhnya tidak pernah benar-benar berakhir"_\n\n- Anonim`,
+    `_"Aku tidak menyesal mencintaimu, aku hanya menyesal menghabiskan terlalu banyak waktu menunggu seseorang yang tidak pernah datang"_\n\n- ANONIM`,
+    `_"Kadang perjalanan terpanjang dimulai dari langkah kecil yang menyakitkan"_\n\n- Anonim`,
+    `_"Luka bisa sembuh tapi bekasnya tidak akan pernah hilang sepenuhnya"_\n\n- ANONIM`,
+    `_"Tidak ada yang bisa mengisi kekosongan yang ditinggalkan oleh seseorang yang kamu cintai"_\n\n- Anonim`,
+    `_"Terlalu banyak mengharap hanya akan membawamu pada kekecewaan"_\n\n- ANONIM`,
+    `_"Percayakan hidupmu pada proses, bukan pada hasilnya"_\n\n- Anonim`,
+    `_"Setiap tangisan adalah doa yang tidak terucapkan"_\n\n- ANONIM`,
+    `_"Kesendirian bisa menjadi tempat paling damai atau paling menyakitkan"_\n\n- Anonim`,
+    `_"Cinta sejati tidak membutuhkan pengakuan, ia cukup dengan keikhlasan"_\n\n- ANONIM`,
+    `_"Kamu berhak mendapatkan cinta yang tidak membuat kamu mempertanyakan dirimu sendiri"_\n\n- ANONIM`,
+    `_"Kadang kita berdoa untuk sesuatu dan Tuhan berikan sesuatu yang lebih baik"_\n\n- Anonim`,
+    `_"Kesedihan adalah bagian dari manusia, bukan kelemahan"_\n\n- Dika`,
+    `_"Jangan takut untuk memulai lagi, bahkan bunga terbaik tumbuh dari tanah yang retak"_\n\n- Dilan`,
+    `_"Tidak ada kepedihan yang abadi, seperti tidak ada kebahagiaan yang abadi"_\n\n- Dika`,
+    `_"Kamu tidak sendirian dalam kesedihanmu, meskipun rasanya seperti itu"_\n\n- Ferliss`,
+    `_"Percayalah bahwa yang terbaik selalu ada di depan, bukan di belakang"_\n\n- Frizs`,
+    `_"Jangan biarkan kepedihan kemarin mencuri kebahagiaan hari ini"_\n\n- Robert Herjavec`,
+    `_"Ada keberanian dalam mengakui bahwa kamu tidak baik-baik saja"_\n\n- Repan`,
+    `_"Setiap orang punya pertempurannya sendiri yang tidak kamu ketahui"_\n\n- Plato`,
+    `_"Mencintai adalah berani untuk terluka"_\n\n- Yudha`,
+    `_"Tidak ada yang mengajarkan tentang kehidupan lebih baik dari kehilangan"_\n\n- Anonim`,
+    `_"Hari-hari terberat dalam hidupmu adalah hari-hari yang mengubahmu menjadi lebih kuat"_\n\n- Anonim`,
+    `_"Jika kamu ingin tahu betapa dalamnya cinta seseorang, lihatlah bagaimana mereka bertahan di saat-saat tersulit"_\n\n- Anonim`,
+    `_"Kamu bisa menangis, tapi setelah itu bangkit lagi"_\n\n- Anonim`,
+    `_"Hidup memang tidak selalu adil, tapi masih layak untuk dijalani"_\n\n- Anonim`,
+    `_"Kepedihan mengajarkanku untuk lebih menghargai kebahagiaan"_\n\n- Anonim`,
+    `_"Tidak ada cinta yang sia-sia, semua mengajarkan sesuatu"_\n\n- Anonim`,
+    `_"Kamu lebih kuat dari yang kamu kira"_\n\n- Winnie the Pooh`,
+    `_"Percayalah bahwa badai ini pun akan berlalu"_\n\n- Anonim`,
+    `_"Jangan biarkan luka menghentikanmu untuk mencintai lagi"_\n\n- Anonim`,
+    `_"Ada keindahan dalam kesedihan yang membuat kita lebih manusiawi"_\n\n- Anonim`,
+    `_"Kamu tidak perlu kuat setiap saat, kadang cukup hanya bertahan"_\n\n- Anonim`,
+    `_"Setiap orang berhak untuk bahagia, termasuk kamu"_\n\n- Anonim`,
+    `_"Masa lalu tidak mendefinisikanmu, yang mendefinisikanmu adalah pilihanmu hari ini"_\n\n- Anonim`,
+    `_"Tidak ada yang lebih indah dari seseorang yang tetap baik meski sudah terluka berkali-kali"_\n\n- Anonim`,
+    `_"Cinta yang pergi tidak berarti kamu tidak layak dicintai"_\n\n- Anonim`,
+    `_"Tangisanmu hari ini adalah kekuatanmu esok hari"_\n\n- Anonim`,
+    `_"Jangan lupa bahwa setelah malam yang paling gelap, pagi yang cerah pasti datang"_\n\n- Anonim`,
+    `_"Kamu tidak rusak, kamu sedang dalam proses perbaikan"_\n\n- Anonim`,
+    `_"Hidup bukan tentang sempurna, tapi tentang berani mencoba lagi"_\n\n- Anonim`,
+    `_"Luka adalah bukti bahwa kamu pernah hidup sepenuhnya"_\n\n- Anonim`,
+    `_"Tersenyumlah, karena senyummu bisa menjadi kekuatan orang lain"_\n\n- Anonim`,
+    `_"Meski hati patah, kamu masih bisa mencintai dengan hati yang sama"_\n\n- Anonim`,
+    `_"Tidak ada perpisahan yang tidak menyakitkan, tapi ada perpisahan yang perlu"_\n\n- Anonim`,
+    `_"Kamu berhak menangis, merasakan sakit, dan kemudian bangkit"_\n\n- Anonim`,
+    `_"Jangan biarkan air mata mengaburkan visimu tentang masa depan"_\n\n- Anonim`,
+    `_"Setiap luka yang kamu tanggung membuat hatimu lebih besar"_\n\n- Anonim`,
+    `_"Cinta yang tulus adalah cinta yang memberimu kebebasan"_\n\n- Anonim`,
+    `_"Kamu tidak perlu menjelaskan kesedihanmu pada semua orang"_\n\n- Anonim`,
+    `_"Di ujung setiap kesedihan ada pelajaran yang berharga"_\n\n- Anonim`,
+    `_"Meski kamu merasa sendirian, kamu tidak pernah benar-benar sendirian"_\n\n- Anonim`,
+    `_"Biarkan waktu yang menyembuhkan, bukan kata-kata orang lain"_\n\n- Anonim`,
+    `_"Kamu layak mendapatkan semua cinta yang kamu berikan kepada orang lain"_\n\n- Anonim`,
+    `_"Setiap kenangan indah adalah hadiah yang tidak bisa diambil siapapun"_\n\n- Anonim`,
+    `_"Jangan takut untuk mencintai lagi, setiap cinta adalah petualangan baru"_\n\n- Anonim`,
+    `_"Hati yang terluka adalah hati yang pernah berani membuka diri"_\n\n- Anonim`,
+    `_"Kamu tidak harus baik-baik saja setiap saat, manusia punya hari-hari gelap"_\n\n- Anonim`,
+    `_"Kadang perlu kehilangan segalanya untuk menemukan yang sejati"_\n\n- Anonim`,
+    `_"Rasa sakitmu mengajarkan lebih banyak dari kebahagiaan yang pernah kamu rasakan"_\n\n- Anonim`,
+    `_"Tidak ada luka yang tidak memiliki makna"_\n\n- Anonim`,
+    `_"Kamu akan baik-baik saja, mungkin tidak sekarang, tapi suatu saat"_\n\n- Anonim`,
+    `_"Setiap air mata yang jatuh membawa sedikit beban yang kamu tanggung"_\n\n- Anonim`,
+    `_"Tidak ada yang lebih berani dari orang yang tetap mencintai setelah patah hati"_\n\n- Anonim`,
   ]
 };
-
-/*
-export const quotes = [
-
-  `_"Sakit itu ketika cinta yang kuberi tidak kamu harg
-
-  `_"Aku ingat kenangan pahit itu dan menjadikannya pelajaran untuk masa depan"_  
-— Randi`,
-
-  `_"Kalau kamu tak sanggup menepati janji, setidaknya jangan biarkan aku menunggu sia-sia"_  
-— Dapa`,
-
-  `_"Yang setia dan baik sering ditinggalkan. Yang nakal dikejar. Lalu disalahkan: 'laki-laki itu sama saja'"_  
-— FelNexus`,
-
-  `_"Walaupun sebentar kau bahagiakan aku, rasanya sulit kulupakan"_  
-— Gucit`,
-
-  `_"Aku tak menyangka kamu pergi dan melupakanku secepat itu"_  
-— Ipan`,
-
-  `_"Jomblo bukan berarti kesepian. Malam minggu bisa jalan sendiri, bareng teman, atau bareng setan pun bisa"_  
-— Aldi`,
-
-  `_"Kamu adalah teman yang selalu ada di sampingku dalam senang dan susah"_  
-— Adit`,
-
-  `_"Aku tak tahu di hatimu itu ada aku atau dia"_  
-— Wisnu`,
-
-  `_"Tak mudah melupakanmu karena aku sangat mencintaimu, meski kau sering menyakitiku"_  
-— Iyar`,
-
-  `_"Hidup sebentar. Lepaskan yang menyakitimu, sayangi yang peduli"_  
-— Lia`,
-
-  `_"Jangan pergi, aku masih sangat mencintaimu"_  
-— Aris`,
-
-  `_"Aku menyayangimu, jadi jangan tinggalkan aku"_  
-— Dani`,
-
-  `_"Aku sudah tahu sifatmu: hanya memberi harapan palsu"_  
-— Deni`,
-
-  `_"Aku berusaha mendapatkan cintamu, tapi kamu tidak peka"_  
-— Levi`,
-
-  `_"Aku bangkit dari jatuhku setelah kau jatuhkan"_  
-— Dava`,
-
-  `_"Jodohku mungkin jauh, tapi aku yakin takkan ke mana"_  
-— Daanx`,
-
-  `_"Datang dulu baru menghina. Pastikan dirimu lebih baik"_  
-— Ari`,
-
-  `_"Membelakanginya lebih baik daripada melihatnya selingkuh di depan mata"_  
-— Aria`,
-
-  `_"Bisakah hatimu setia seperti angsa yang hanya pada satu pasangan?"_  
-— Ahmad`,
-
-  `_"Aku berdiri sendiri di sini menunggu kehadiranmu"_  
-— Diki`,
-
-  `_"Aku hanya tersenyum setelah kau menyakitiku agar kau tahu arti kesabaran"_  
-— Vian`,
-
-  `_"Maaf aku lupa, ternyata aku bukan siapa-siapa"_  
-— FelNexus`,
-
-  `_"Untuk memegang janji itu perlu bukti, jangan hanya janji palsu"_  
-— Mursit`,
-
-  `_"Aku tak bisa selamanya menunggu. Kini aku ragu apakah kamu masih mencintaiku"_  
-— Budi`,
-
-  `_"Jangan buat aku berharap jika kamu tidak menginginkanku"_  
-— Elwin`,
-
-  `_"Lebih baik sendiri daripada berdua tanpa kepastian"_  
-— Agus`,
-
-  `"Hidup adalah perjalanan, nikmati setiap langkahnya tanpa terlalu banyak memikirkan tujuan."  
-— Cuki`,
-
-  `_"Pergi bukan berarti berhenti mencintai, tapi lelah karena berjuang sendiri"_  
-— Denva`,
-
-  `_"Bukan aku tak mau jadi pacarmu, aku hanya ingin disatukan dengan cara yang benar"_  
-— Ridho`,
-
-  `_"Akan ada saatnya aku benar-benar lupa dan tidak memikirkanmu lagi"_  
-— Arya`,
-
-  `_"Kenapa harus jatuh cinta pada orang yang tak bisa dimiliki"_  
-— FelNexus`,
-
-  `_"Aku juga punya perasaan, tapi aku takut mencintaimu"_  
-— Ky`,
-
-  `_"Maaf sayang, aku tak bisa menjadi seperti yang kamu mau"_  
-— Kai`,
-
-  `_"Jangan beri perhatian lebih kalau kamu nggak mau aku berekspektasi"_  
-— Hakim`,
-
-  `_"Aku tak cari yang sempurna, aku cari yang terbaik"_  
-— Kiel`,
-
-  
-  `_"Cewek strong itu yang tetap tersenyum meski terluka"_  
-— Arpan`,
-
-  `_"Terima kasih, karena kamu aku lupa masa laluku"_  
-— ArpanSo`,
-
-
-
-  `_"Kamu tidak akan menemukan apa-apa di masa lalu. Yang ada hanyalah sakit hati"_  
-— Alan`,
-
-  `_"Mikirin orang yang nggak mikirin kita itu memang bikin gila"_  
-— Aini`,
-
-  `_"Dari sekian lama menunggu, apa yang sudah kudapat?"_  
-— Dez`,
-
-  `_"Perasaan bodohku: jatuh cinta sama orang yang sama meski disakiti berulang kali"_  
-— Ryan`,
-
-  `_"Yang sendiri adalah yang bersabar menunggu pasangan sejatinya"_  
-— *`,
-
-  `_"Aku terlahir sederhana dan ditinggal sudah biasa"_  
-— Encah`,
-
-  `_"Aku sayang kamu, tapi aku masih takut mencintaimu"_  
-— Dandi`,
-
-  `_"Berbagi suka dan duka bersamamu sudah membuatku bahagia"_  
-— Dedi`,
-
-  `_"Aku tidak pernah berpikir kamu akan menjadi hanya sementara"_  
-— Purnama`,
-
-  `_"Jodoh itu bukan seberapa dekat kamu dengannya, tapi seberapa yakin kamu dengan Allah"_  
-— Rizki`,
-
-  `_"Jangan paksa aku menjadi cewek seperti seleramu"_  
-— Apis`,
-
-  `_"Hanya yang sabar mampu melewati kekecewaan"_  
-— Hairil`,
-
-  `_"Balikan denganmu itu seperti bunuh diri dan melukai hati sendiri"_  
-— Hairul`,
-
-  `_"Tak perlu membalas dengan menyakiti, biarkan karma yang urus"_  
-— FelNexus`,
-
-  `_"Aku masih ingat kamu, tapi rasanya tak sesakit dulu"_  
-— *`,
-
-  `_"Hidup hanyalah perjalanan menuju ketiadaan, dihiasi harapan yang sia-sia."_  
-— Veann`,
-
-  `_"ku kira *makan ya ganteng*, ternyata *makanya ganteng*"_  
-— Faizzxy`,
-
-  `_"Jangan menilai orang dari luar, ingat! Gudang Garam isinya rokok, bukan garam."_  
-— Sxyz`,
-
-  `_"Sejauh apapun aku berlari, aku benci realitaku yang jalan di tempat"_  
-— Veann`,
-
-  `_"Hidup seperti diperkosa: kalau tak mampu melawan, nikmatilah"_  
-— Hann`,
-
-  `_"rippan sange sama anak kecil, makanya jaga adik kalian. tengkyu"_  
-— Faizzxy`,
-
-  `_"Semua tawa memudar, canda sirna. Tapi hidup tetap berjalan meski penuh air mata"_  
-— Veann`,
-
-  `_"senja memang tak seindah pelangi, tapi senja berjanji esok akan kembali"_  
-— Aldi`,
-
-  `_"jika senyummu adalah bahagia, jadikanlah aku penyebabnya"_  
-— Aldi`,
-
-  `_"dunia ini tidak ada yang benar-benar bisa dimiliki, bahkan udara harus dihembuskan kembali"_  
-— Aldi`,
-
-  `_"mencintaimu seperti hujan: awalnya senang, akhirnya sakit"_  
-— DanuKiding`,
-
-  `_"Sialnya aku tak bisa menjelaskan apa yang kurasakan"_  
-— Doni`,
-
-
-];*/
