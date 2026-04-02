@@ -37,7 +37,7 @@
     },
     {
       "cmd": "Welcome",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "cmd": "Delswgc",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -84,7 +84,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170262058
+      "lastSeen": 1775170302307
     },
     "6285707695106@s.whatsapp.net": {
       "sticker": {},
@@ -112,11 +112,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 18,
+      "hit": 20,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170197796
+      "lastSeen": 1775170313002
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -172,7 +172,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170279918
+      "lastSeen": 1775170298035
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -356,7 +356,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170279160
+      "lastSeen": 1775170286498
     },
     "status@broadcast": {
       "sticker": {}
@@ -732,6 +732,25 @@
       "antimedia": false,
       "antipromosi": false,
       "antidelete": false
+    },
+    "120363150064664675@g.us": {
+      "id": "120363150064664675@g.us",
+      "hit": 2,
+      "welcome": true,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": true,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
     }
   },
   "data": [],
@@ -739,14 +758,14 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 18
+      "totalcmd": 20
     }
   ],
   "listerror": [],
   "others": {
     "runtime": {
       "runtime": 1775169271991,
-      "lastTime": 1775170235559
+      "lastTime": 1775170295560
     },
     "antiSticker": [],
     "setTime": [
