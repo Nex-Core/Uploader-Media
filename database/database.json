@@ -29,6 +29,11 @@
       "cmd": "Setopen",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "R",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "allcommand": [
@@ -37,7 +42,8 @@
     "Listtimer",
     "Setclose",
     "Delclose",
-    "Setopen"
+    "Setopen",
+    "R"
   ],
   "users": {
     "628211231248@s.whatsapp.net": {
@@ -82,11 +88,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 8,
+      "hit": 9,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169502084
+      "lastSeen": 1775169624223
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -142,7 +148,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169593635
+      "lastSeen": 1775169622604
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -150,7 +156,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169590024
+      "lastSeen": 1775169619519
     },
     "6281930676761@s.whatsapp.net": {
       "sticker": {},
@@ -240,7 +246,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 2,
+      "hit": 3,
       "welcome": false,
       "bye": false,
       "sWelcome": "",
@@ -404,7 +410,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 8
+      "totalcmd": 9
     }
   ],
   "listerror": [],
