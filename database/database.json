@@ -2,7 +2,7 @@
   "dashboard": [
     {
       "cmd": "Sf",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -54,6 +54,11 @@
       "cmd": "Play",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Gf",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "allcommand": [
@@ -67,7 +72,8 @@
     "Welcome",
     "Setwelcome",
     "Delswgc",
-    "Play"
+    "Play",
+    "Gf"
   ],
   "users": {
     "628211231248@s.whatsapp.net": {
@@ -112,11 +118,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 21,
+      "hit": 23,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171003776
+      "lastSeen": 1775171126565
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -172,7 +178,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170996923
+      "lastSeen": 1775171113762
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -471,7 +477,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170931972
+      "lastSeen": 1775171112469
     },
     "6283851506282@s.whatsapp.net": {
       "sticker": {},
@@ -615,7 +621,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171100861
+      "lastSeen": 1775171112339
     },
     "6285385857218@s.whatsapp.net": {
       "sticker": {},
@@ -632,6 +638,22 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775171083535
+    },
+    "6281216769561@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775171110380
+    },
+    "6287892521142@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775171121694
     }
   },
   "chats": {
@@ -697,7 +719,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 7,
+      "hit": 9,
       "welcome": false,
       "bye": false,
       "sWelcome": "",
@@ -1055,7 +1077,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 21
+      "totalcmd": 23
     }
   ],
   "listerror": [],
