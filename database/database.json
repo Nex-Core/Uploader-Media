@@ -178,7 +178,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775173047439
+      "lastSeen": 1775173072619
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -362,7 +362,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775173050033
+      "lastSeen": 1775173071929
     },
     "status@broadcast": {
       "sticker": {}
@@ -653,7 +653,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775172970136
+      "lastSeen": 1775173072510
     },
     "6282340243800@s.whatsapp.net": {
       "sticker": {},
@@ -773,7 +773,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775173005087
+      "lastSeen": 1775173053635
     },
     "6281977230206@s.whatsapp.net": {
       "sticker": {},
@@ -829,7 +829,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775172903679
+      "lastSeen": 1775173077165
     },
     "6283862862320@s.whatsapp.net": {
       "sticker": {},
@@ -917,7 +917,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775173011206
+      "lastSeen": 1775173078243
     },
     "6285600321353@s.whatsapp.net": {
       "sticker": {},
@@ -933,7 +933,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775173049926
+      "lastSeen": 1775173078331
     },
     "6282132079864@s.whatsapp.net": {
       "sticker": {},
@@ -1449,6 +1449,25 @@
       "id": "120363166320341442@g.us",
       "hit": 1,
       "welcome": true,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": false,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
+    },
+    "120363398464320696@g.us": {
+      "id": "120363398464320696@g.us",
+      "hit": 0,
+      "welcome": false,
       "bye": false,
       "sWelcome": "",
       "sBye": "",
