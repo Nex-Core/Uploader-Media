@@ -1,6 +1,14 @@
 {
-  "dashboard": [],
-  "allcommand": [],
+  "dashboard": [
+    {
+      "cmd": "Sf",
+      "succes": 1,
+      "failed": 0
+    }
+  ],
+  "allcommand": [
+    "Sf"
+  ],
   "users": {
     "628211231248@s.whatsapp.net": {
       "sticker": {},
@@ -32,7 +40,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169192524
+      "lastSeen": 1775169252238
     },
     "6281359932022@s.whatsapp.net": {
       "sticker": {},
@@ -44,11 +52,19 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
+      "hit": 1,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775169226197
+    },
+    "6287833658540@s.whatsapp.net": {
+      "sticker": {},
       "hit": 0,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169211983
+      "lastSeen": 1775169225253
     }
   },
   "chats": {
@@ -114,7 +130,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 0,
+      "hit": 1,
       "welcome": false,
       "bye": false,
       "sWelcome": "",
@@ -154,7 +170,13 @@
     }
   },
   "data": [],
-  "hittoday": [],
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1775255626198,
+      "totalcmd": 1
+    }
+  ],
   "listerror": [],
   "others": {
     "runtime": null,
