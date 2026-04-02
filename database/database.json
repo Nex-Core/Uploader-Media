@@ -653,7 +653,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171878311
+      "lastSeen": 1775172095290
     },
     "6282340243800@s.whatsapp.net": {
       "sticker": {},
@@ -829,7 +829,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171752026
+      "lastSeen": 1775172112548
     },
     "6283862862320@s.whatsapp.net": {
       "sticker": {},
@@ -1257,6 +1257,25 @@
     },
     "120363427124513280@g.us": {
       "id": "120363427124513280@g.us",
+      "hit": 0,
+      "welcome": false,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": false,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
+    },
+    "120363302778990378@g.us": {
+      "id": "120363302778990378@g.us",
       "hit": 0,
       "welcome": false,
       "bye": false,
