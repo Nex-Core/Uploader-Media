@@ -14,12 +14,24 @@
       "cmd": "Listtimer",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Setclose",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Delclose",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "allcommand": [
     "Sf",
     "Menu",
-    "Listtimer"
+    "Listtimer",
+    "Setclose",
+    "Delclose"
   ],
   "users": {
     "628211231248@s.whatsapp.net": {
@@ -28,7 +40,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169413674
+      "lastSeen": 1775169434310
     },
     "6285765111545@s.whatsapp.net": {
       "sticker": {},
@@ -64,11 +76,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 3,
+      "hit": 5,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169363300
+      "lastSeen": 1775169460676
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -100,7 +112,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169392655
+      "lastSeen": 1775169462786
     },
     "6287710330665@s.whatsapp.net": {
       "sticker": {},
@@ -119,7 +131,20 @@
       "lastSeen": 1775169367091
     },
     "992928821046@s.whatsapp.net": {
-      "sticker": {}
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775169463645
+    },
+    "62895366627203@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775169460289
     }
   },
   "chats": {
@@ -302,6 +327,26 @@
       "antimedia": false,
       "antipromosi": false,
       "antidelete": false
+    },
+    "120363408260785168@g.us": {
+      "id": "120363408260785168@g.us",
+      "hit": 2,
+      "welcome": false,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiporn": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": false,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
     }
   },
   "data": [],
@@ -309,14 +354,14 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 3
+      "totalcmd": 5
     }
   ],
   "listerror": [],
   "others": {
     "runtime": {
       "runtime": 1775169271991,
-      "lastTime": 1775169391993
+      "lastTime": 1775169451993
     },
     "antiSticker": [],
     "restart": null,
