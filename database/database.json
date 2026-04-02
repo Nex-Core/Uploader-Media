@@ -9,6 +9,14 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775169078751
+    },
+    "6285765111545@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775169157538
     }
   },
   "chats": {
@@ -34,6 +42,26 @@
     },
     "6289528364725@s.whatsapp.net": {
       "id": "6289528364725@s.whatsapp.net",
+      "hit": 0,
+      "welcome": false,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiporn": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": false,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
+    },
+    "120363424390785506@g.us": {
+      "id": "120363424390785506@g.us",
       "hit": 0,
       "welcome": false,
       "bye": false,
