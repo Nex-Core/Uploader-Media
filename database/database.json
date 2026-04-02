@@ -600,6 +600,14 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775170892952
+    },
+    "6289629662501@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775170925589
     }
   },
   "chats": {
@@ -1030,7 +1038,7 @@
   "others": {
     "runtime": {
       "runtime": 1775169271991,
-      "lastTime": 1775170860523
+      "lastTime": 1775170920524
     },
     "antiSticker": [],
     "setTime": [
