@@ -148,7 +148,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169622604
+      "lastSeen": 1775169653389
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -156,7 +156,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169619519
+      "lastSeen": 1775169649864
     },
     "6281930676761@s.whatsapp.net": {
       "sticker": {},
@@ -164,7 +164,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169503455
+      "lastSeen": 1775169630179
     },
     "6281946048981@s.whatsapp.net": {
       "sticker": {},
@@ -181,6 +181,14 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775169611545
+    },
+    "6283147042066@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775169658226
     }
   },
   "chats": {
@@ -403,6 +411,26 @@
       "antimedia": false,
       "antipromosi": false,
       "antidelete": false
+    },
+    "120363405896234151@g.us": {
+      "id": "120363405896234151@g.us",
+      "hit": 0,
+      "welcome": false,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiporn": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": false,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
     }
   },
   "data": [],
@@ -420,7 +448,6 @@
       "lastTime": 1775169571995
     },
     "antiSticker": [],
-    "restart": null,
     "setTime": [
       {
         "id": "120363403604861795@g.us",
@@ -453,7 +480,7 @@
       "autoCulikSticker": false,
       "autoDelTrash": true,
       "autoLabelGroup": false,
-      "autoReactError": true,
+      "autoReactError": false,
       "autoRVO": false,
       "autoSwTelegram": false,
       "autoUpdateRuntime": true,
