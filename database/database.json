@@ -2,7 +2,7 @@
   "dashboard": [
     {
       "cmd": "Sf",
-      "succes": 3,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "cmd": "R",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -118,11 +118,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 25,
+      "hit": 28,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171764607
+      "lastSeen": 1775171786230
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -525,7 +525,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171753618
+      "lastSeen": 1775171774409
     },
     "6283133992066@s.whatsapp.net": {
       "sticker": {},
@@ -895,7 +895,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 11,
+      "hit": 14,
       "welcome": false,
       "bye": false,
       "sWelcome": "",
@@ -1272,7 +1272,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 25
+      "totalcmd": 28
     }
   ],
   "listerror": [],
