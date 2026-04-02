@@ -124,7 +124,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171049887
+      "lastSeen": 1775171086133
     },
     "5215539356057@s.whatsapp.net": {
       "sticker": {},
@@ -615,7 +615,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171070543
+      "lastSeen": 1775171100861
     },
     "6285385857218@s.whatsapp.net": {
       "sticker": {},
@@ -624,6 +624,14 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775170945577
+    },
+    "6287899091706@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775171083535
     }
   },
   "chats": {
@@ -1054,7 +1062,7 @@
   "others": {
     "runtime": {
       "runtime": 1775169271991,
-      "lastTime": 1775171040526
+      "lastTime": 1775171100526
     },
     "antiSticker": [],
     "setTime": [
