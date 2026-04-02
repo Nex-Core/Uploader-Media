@@ -2,7 +2,7 @@
   "dashboard": [
     {
       "cmd": "Sf",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -118,11 +118,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 24,
+      "hit": 25,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171138729
+      "lastSeen": 1775171764607
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -525,7 +525,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171729825
+      "lastSeen": 1775171753618
     },
     "6283133992066@s.whatsapp.net": {
       "sticker": {},
@@ -573,7 +573,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170798793
+      "lastSeen": 1775171746690
     },
     "6281991224844@s.whatsapp.net": {
       "sticker": {},
@@ -621,7 +621,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171722995
+      "lastSeen": 1775171737656
     },
     "6285385857218@s.whatsapp.net": {
       "sticker": {},
@@ -653,7 +653,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171731329
+      "lastSeen": 1775171740859
     },
     "6282340243800@s.whatsapp.net": {
       "sticker": {},
@@ -725,7 +725,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171587395
+      "lastSeen": 1775171751598
     },
     "6283854988777@s.whatsapp.net": {
       "sticker": {},
@@ -822,6 +822,14 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775171723979
+    },
+    "6287749511033@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775171752026
     }
   },
   "chats": {
@@ -887,7 +895,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 10,
+      "hit": 11,
       "welcome": false,
       "bye": false,
       "sWelcome": "",
@@ -1264,14 +1272,14 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 24
+      "totalcmd": 25
     }
   ],
   "listerror": [],
   "others": {
     "runtime": {
       "runtime": 1775169271991,
-      "lastTime": 1775171700531
+      "lastTime": 1775171760532
     },
     "antiSticker": [],
     "setTime": [
