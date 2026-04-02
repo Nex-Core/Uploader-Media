@@ -82,7 +82,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171433887
+      "lastSeen": 1775171439916
     },
     "6285765111545@s.whatsapp.net": {
       "sticker": {},
@@ -178,7 +178,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171432747
+      "lastSeen": 1775171455485
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -621,7 +621,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171399761
+      "lastSeen": 1775171460259
     },
     "6285385857218@s.whatsapp.net": {
       "sticker": {},
@@ -733,7 +733,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171358407
+      "lastSeen": 1775171462490
     },
     "6285178299833@s.whatsapp.net": {
       "sticker": {},
@@ -741,7 +741,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171426846
+      "lastSeen": 1775171454788
     },
     "6285138764823@s.whatsapp.net": {
       "sticker": {},
@@ -749,7 +749,23 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171433560
+      "lastSeen": 1775171447439
+    },
+    "6282177767614@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775171457665
+    },
+    "6285736009807@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775171457943
     }
   },
   "chats": {
@@ -1180,7 +1196,7 @@
   "others": {
     "runtime": {
       "runtime": 1775169271991,
-      "lastTime": 1775171400527
+      "lastTime": 1775171460528
     },
     "antiSticker": [],
     "setTime": [
