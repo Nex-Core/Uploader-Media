@@ -49,6 +49,11 @@
       "cmd": "Delswgc",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Play",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "allcommand": [
@@ -61,7 +66,8 @@
     "R",
     "Welcome",
     "Setwelcome",
-    "Delswgc"
+    "Delswgc",
+    "Play"
   ],
   "users": {
     "628211231248@s.whatsapp.net": {
@@ -78,7 +84,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170115679
+      "lastSeen": 1775170208688
     },
     "6285707695106@s.whatsapp.net": {
       "sticker": {},
@@ -106,11 +112,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 17,
+      "hit": 18,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170115458
+      "lastSeen": 1775170197796
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -166,7 +172,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170190275
+      "lastSeen": 1775170221390
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -214,7 +220,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170174780
+      "lastSeen": 1775170223063
     },
     "6281532271325@s.whatsapp.net": {
       "sticker": {},
@@ -318,7 +324,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170134613
+      "lastSeen": 1775170194524
     },
     "60166827259@s.whatsapp.net": {
       "sticker": {},
@@ -350,7 +356,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170186225
+      "lastSeen": 1775170220304
     },
     "status@broadcast": {
       "sticker": {}
@@ -370,6 +376,14 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775170162988
+    },
+    "6285842624025@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775170219821
     }
   },
   "chats": {
@@ -615,7 +629,7 @@
     },
     "120363162611448409@g.us": {
       "id": "120363162611448409@g.us",
-      "hit": 1,
+      "hit": 2,
       "welcome": true,
       "bye": false,
       "sWelcome": "",
@@ -717,7 +731,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 17
+      "totalcmd": 18
     }
   ],
   "listerror": [],
