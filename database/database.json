@@ -178,7 +178,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775173339991
+      "lastSeen": 1775173376164
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -226,7 +226,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775171588265
+      "lastSeen": 1775173379715
     },
     "6281532271325@s.whatsapp.net": {
       "sticker": {},
@@ -362,7 +362,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775173342280
+      "lastSeen": 1775173378522
     },
     "status@broadcast": {
       "sticker": {}
@@ -477,7 +477,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775173280417
+      "lastSeen": 1775173354189
     },
     "6283851506282@s.whatsapp.net": {
       "sticker": {},
@@ -829,7 +829,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775173077165
+      "lastSeen": 1775173371105
     },
     "6283862862320@s.whatsapp.net": {
       "sticker": {},
@@ -949,7 +949,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775172895410
+      "lastSeen": 1775173358069
     },
     "6289529486138@s.whatsapp.net": {
       "sticker": {},
@@ -1006,6 +1006,14 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775173301046
+    },
+    "6282254020882@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775173370694
     }
   },
   "chats": {
@@ -1482,6 +1490,25 @@
     },
     "120363398464320696@g.us": {
       "id": "120363398464320696@g.us",
+      "hit": 0,
+      "welcome": false,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": false,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
+    },
+    "149177585643759@lid": {
+      "id": "149177585643759@lid",
       "hit": 0,
       "welcome": false,
       "bye": false,
