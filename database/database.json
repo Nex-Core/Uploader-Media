@@ -9,11 +9,17 @@
       "cmd": "Menu",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Listtimer",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "allcommand": [
     "Sf",
-    "Menu"
+    "Menu",
+    "Listtimer"
   ],
   "users": {
     "628211231248@s.whatsapp.net": {
@@ -58,11 +64,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 2,
+      "hit": 3,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169331867
+      "lastSeen": 1775169363300
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -87,6 +93,30 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775169339607
+    },
+    "6285813611545@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775169355728
+    },
+    "6287710330665@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775169362017
+    },
+    "628568270001@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775169367091
     }
   },
   "chats": {
@@ -229,6 +259,46 @@
       "antimedia": false,
       "antipromosi": false,
       "antidelete": false
+    },
+    "120363403604861795@g.us": {
+      "id": "120363403604861795@g.us",
+      "hit": 1,
+      "welcome": false,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiporn": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": false,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
+    },
+    "120363407349620039@g.us": {
+      "id": "120363407349620039@g.us",
+      "hit": 0,
+      "welcome": false,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiporn": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": false,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
     }
   },
   "data": [],
@@ -236,7 +306,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 2
+      "totalcmd": 3
     }
   ],
   "listerror": [],
