@@ -116,7 +116,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170472007
+      "lastSeen": 1775170500510
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -252,7 +252,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169791391
+      "lastSeen": 1775170493227
     },
     "6282258052529@s.whatsapp.net": {
       "sticker": {},
@@ -431,7 +431,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775170425897
+      "lastSeen": 1775170496917
     }
   },
   "chats": {
@@ -858,7 +858,7 @@
       "autoBackupTG": true,
       "autoCulikSticker": false,
       "autoDelTrash": true,
-      "autoLabelGroup": true,
+      "autoLabelGroup": false,
       "autoReactError": false,
       "autoRVO": false,
       "autoSwTelegram": false,
