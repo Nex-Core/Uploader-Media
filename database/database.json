@@ -70,7 +70,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169988713
+      "lastSeen": 1775170065415
     },
     "6285765111545@s.whatsapp.net": {
       "sticker": {},
@@ -94,7 +94,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169886049
+      "lastSeen": 1775170061478
     },
     "6281359932022@s.whatsapp.net": {
       "sticker": {},
@@ -198,7 +198,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169611545
+      "lastSeen": 1775170062758
     },
     "6283147042066@s.whatsapp.net": {
       "sticker": {},
@@ -311,6 +311,30 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775169971140
+    },
+    "6283136890254@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775170057677
+    },
+    "60166827259@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775170059159
+    },
+    "226663140991110@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775170064970
     }
   },
   "chats": {
@@ -627,7 +651,7 @@
   "others": {
     "runtime": {
       "runtime": 1775169271991,
-      "lastTime": 1775169979059
+      "lastTime": 1775170039059
     },
     "antiSticker": [],
     "setTime": [
@@ -661,7 +685,7 @@
       "autoBackupTG": true,
       "autoCulikSticker": false,
       "autoDelTrash": true,
-      "autoLabelGroup": false,
+      "autoLabelGroup": true,
       "autoReactError": false,
       "autoRVO": false,
       "autoSwTelegram": false,
