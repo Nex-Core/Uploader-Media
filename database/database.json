@@ -34,6 +34,16 @@
       "cmd": "R",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Welcome",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Setwelcome",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "allcommand": [
@@ -43,7 +53,9 @@
     "Setclose",
     "Delclose",
     "Setopen",
-    "R"
+    "R",
+    "Welcome",
+    "Setwelcome"
   ],
   "users": {
     "628211231248@s.whatsapp.net": {
@@ -60,7 +72,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169741841
+      "lastSeen": 1775169767879
     },
     "6285707695106@s.whatsapp.net": {
       "sticker": {},
@@ -88,11 +100,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 10,
+      "hit": 12,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169722670
+      "lastSeen": 1775169776387
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -406,10 +418,10 @@
     },
     "120363408260785168@g.us": {
       "id": "120363408260785168@g.us",
-      "hit": 2,
-      "welcome": false,
+      "hit": 4,
+      "welcome": true,
       "bye": false,
-      "sWelcome": "",
+      "sWelcome": "✧──────────────✧\n ✦ Ａｓｔｒａｌ Ｉｎｔｒｏ ✦\n✧──────────────✧\n\n📖 Nama : @⁨user.⁩ INTRO\n🌌 Alamat :\n📝 Kelas :\n🕯️ Umur :\n🌸 Gender : \n💫 Waifu/Husbando: \n\n✨ \" Salam kenal semuanya! \"\n✧──────────────✧",
       "sBye": "",
       "banchat": false,
       "antiporn": false,
@@ -470,7 +482,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 10
+      "totalcmd": 12
     }
   ],
   "listerror": [],
