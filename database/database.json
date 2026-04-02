@@ -7,7 +7,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -74,11 +74,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 23,
+      "hit": 24,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775168021431
+      "lastSeen": 1775168038652
     },
     "6287749511033@s.whatsapp.net": {
       "sticker": {},
@@ -201,7 +201,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775167976049
+      "lastSeen": 1775168048897
     },
     "6282395028988@s.whatsapp.net": {
       "sticker": {},
@@ -265,7 +265,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775167974619
+      "lastSeen": 1775168048570
     },
     "59177684434@s.whatsapp.net": {
       "sticker": {},
@@ -305,7 +305,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775167026047
+      "lastSeen": 1775168047176
     },
     "6281532271325@s.whatsapp.net": {
       "sticker": {},
@@ -370,6 +370,14 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775167978285
+    },
+    "6285137028933@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775168029329
     }
   },
   "chats": {
@@ -455,7 +463,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 25,
+      "hit": 26,
       "welcome": false,
       "bye": false,
       "sWelcome": "",
@@ -799,7 +807,7 @@
     {
       "id": "run",
       "expired": 1775251240154,
-      "totalcmd": 30
+      "totalcmd": 31
     }
   ],
   "listerror": [],
@@ -811,138 +819,7 @@
     "antiSticker": [],
     "setTime": [],
     "oneTimeEvents": [],
-    "notifGempa": {},
-    "restart": {
-      "m": {
-        "key": {
-          "remoteJid": "120363406862251533@g.us",
-          "fromMe": true,
-          "id": "AC191ED3AE659913AFE9CBC12EE07139",
-          "participant": "136786823110789@lid",
-          "addressingMode": "lid"
-        },
-        "messageTimestamp": 1775168021,
-        "pushName": "Aku Fearless (6 Tahun).",
-        "broadcast": false,
-        "status": 2,
-        "message": {
-          "conversation": "R",
-          "messageContextInfo": {
-            "messageSecret": "2KHFeEMYM87DYuFh+Eoew9DNe7ciFMdDAOHh6V4NClI="
-          }
-        },
-        "id": "AC191ED3AE659913AFE9CBC12EE07139",
-        "isBaileys": false,
-        "chat": "120363406862251533@g.us",
-        "isGroup": true,
-        "senderLid": "136786823110789@lid",
-        "sender": "6289528364725@s.whatsapp.net",
-        "fromMe": true,
-        "groupMetadata": {
-          "id": "120363406862251533@g.us",
-          "addressingMode": "lid-update",
-          "subject": "SAHRE BOKEP",
-          "subjectTime": 1769295334,
-          "size": 4,
-          "creation": 1760857354,
-          "owner": "31657851239@s.whatsapp.net",
-          "ownerPn": "31657851239@s.whatsapp.net",
-          "owner_country_code": "NL",
-          "desc": "*ɴᴇxᴠɪᴏ ꒰ ᴏꜰꜰɪᴄɪᴀʟ ʙᴏᴛ ꜱᴇʀᴠɪᴄᴇꜱ ꒱*\n \n*— ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛ*\n꒰ ༝Sɪʟᴀᴋᴀɴ ᴇxᴘʟᴏʀᴀꜱɪ ꜰɪᴛᴜʀ & ᴅᴀᴘᴀᴛᴋᴀɴ ʙᴀɴᴛᴜᴀɴ ꜱᴇʀᴛᴀ ꜱᴀᴍᴀ ꜱᴀᴍᴀ~\nJaga suasana kondusif seperti sistem yang terstruktur! *[ ⚙️ ]*\n \n*— ʀᴜʟᴇꜱ*\n*[ ☒ ]* Tidak diperbolehkan spam bot, bug, atau virus\n*[ ☒ ]* Tidak diperbolehkan ujaran kebencian, rasialis, atau konten toksik\n*[ ☒ ]* Tidak diperbolehkan berbagi link promosi, grup lain, atau konten 18+\n*[ ☒ ]* Tidak diperbolehkan panggilan bot atau konten yang tidak pantas\n*[ ☒ ]* Dilarang menambahkan bot pribadi tanpa izin admin\n*[ ☒ ]* Tidak diperbolehkan hidetag secara berlebihan\n \n*— ꜰᴇᴀᴛᴜʀᴇꜱ ʙᴏᴛ ɴᴇxᴠɪᴏ*\n*[ ♡ ]* Downloader (YouTube, TikTok, Instagram, dll)\n*[ ♡ ]* Pembuatan & pengeditan stiker + foto HD\n*[ ♡ ]* Permainan & fitur kreatif lainnya\n*[ ♡ ]* Layanan AI untuk chat & konten visual\n*[ ♡ ]* Sistem jadwal otomatis buka-tutup grup (22.00 WITA tutup, 04.30 WITA buka)\n \n*— ɪɴꜰᴏʀᴍᴀꜱɪ & ʀᴇꜱᴏᴜʀꜱᴇ*\n► Link Group Resmi : https://chat.whatsapp.com/DvatcYpjLTNI9mWyTfetJ3\n \n*— ᴄᴏɴᴛᴀᴄᴛ*\n[ ☏ ]Owner NexVio : wa.me/6287737937323\n \n*— ɴᴏᴛᴇ*\nJika bot dalam keadaan offline, kemungkinan sedang dalam pemeliharaan atau ada masalah teknis. Silakan hubungi owner untuk informasi lebih lanjut~\n \n*˚ ༘♡ ⋆｡˚ ❀*\n*꒰ ɴᴇxᴠɪᴏ - ɢɪᴠɪɴɢ ʙᴇꜱᴛ ᴅɪɢɪᴛᴀʟ ꜱᴏʟᴜᴛɪᴏɴꜱ ꜰᴏʀ ʏᴏᴜ ♡ ꒱*\n \n```© NexVio - Official Bot Services```",
-          "descId": "CCAA55EE72375F55121C212507302369",
-          "descTime": 1769256362,
-          "restrict": true,
-          "announce": false,
-          "isCommunity": false,
-          "isCommunityAnnounce": false,
-          "joinApprovalMode": false,
-          "memberAddMode": true,
-          "participants": [
-            {
-              "lid": "136786823110789@lid",
-              "id": "6289528364725@s.whatsapp.net",
-              "admin": "admin"
-            },
-            {
-              "lid": "56556817281043@lid",
-              "id": "6287749511033@s.whatsapp.net",
-              "admin": "admin"
-            },
-            {
-              "lid": "58833032491136@lid",
-              "id": "6285232391091@s.whatsapp.net",
-              "admin": null
-            },
-            {
-              "lid": "226663140991110@lid",
-              "id": "31657851239@s.whatsapp.net",
-              "admin": null
-            }
-          ]
-        },
-        "groupName": "SAHRE BOKEP",
-        "groupId": "120363406862251533@g.us",
-        "isCommunity": false,
-        "isCommunityAnnounce": false,
-        "groupDesc": "*ɴᴇxᴠɪᴏ ꒰ ᴏꜰꜰɪᴄɪᴀʟ ʙᴏᴛ ꜱᴇʀᴠɪᴄᴇꜱ ꒱*\n \n*— ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛ*\n꒰ ༝Sɪʟᴀᴋᴀɴ ᴇxᴘʟᴏʀᴀꜱɪ ꜰɪᴛᴜʀ & ᴅᴀᴘᴀᴛᴋᴀɴ ʙᴀɴᴛᴜᴀɴ ꜱᴇʀᴛᴀ ꜱᴀᴍᴀ ꜱᴀᴍᴀ~\nJaga suasana kondusif seperti sistem yang terstruktur! *[ ⚙️ ]*\n \n*— ʀᴜʟᴇꜱ*\n*[ ☒ ]* Tidak diperbolehkan spam bot, bug, atau virus\n*[ ☒ ]* Tidak diperbolehkan ujaran kebencian, rasialis, atau konten toksik\n*[ ☒ ]* Tidak diperbolehkan berbagi link promosi, grup lain, atau konten 18+\n*[ ☒ ]* Tidak diperbolehkan panggilan bot atau konten yang tidak pantas\n*[ ☒ ]* Dilarang menambahkan bot pribadi tanpa izin admin\n*[ ☒ ]* Tidak diperbolehkan hidetag secara berlebihan\n \n*— ꜰᴇᴀᴛᴜʀᴇꜱ ʙᴏᴛ ɴᴇxᴠɪᴏ*\n*[ ♡ ]* Downloader (YouTube, TikTok, Instagram, dll)\n*[ ♡ ]* Pembuatan & pengeditan stiker + foto HD\n*[ ♡ ]* Permainan & fitur kreatif lainnya\n*[ ♡ ]* Layanan AI untuk chat & konten visual\n*[ ♡ ]* Sistem jadwal otomatis buka-tutup grup (22.00 WITA tutup, 04.30 WITA buka)\n \n*— ɪɴꜰᴏʀᴍᴀꜱɪ & ʀᴇꜱᴏᴜʀꜱᴇ*\n► Link Group Resmi : https://chat.whatsapp.com/DvatcYpjLTNI9mWyTfetJ3\n \n*— ᴄᴏɴᴛᴀᴄᴛ*\n[ ☏ ]Owner NexVio : wa.me/6287737937323\n \n*— ɴᴏᴛᴇ*\nJika bot dalam keadaan offline, kemungkinan sedang dalam pemeliharaan atau ada masalah teknis. Silakan hubungi owner untuk informasi lebih lanjut~\n \n*˚ ༘♡ ⋆｡˚ ❀*\n*꒰ ɴᴇxᴠɪᴏ - ɢɪᴠɪɴɢ ʙᴇꜱᴛ ᴅɪɢɪᴛᴀʟ ꜱᴏʟᴜᴛɪᴏɴꜱ ꜰᴏʀ ʏᴏᴜ ♡ ꒱*\n \n```© NexVio - Official Bot Services```",
-        "groupMembers": [
-          {
-            "lid": "136786823110789@lid",
-            "id": "6289528364725@s.whatsapp.net",
-            "admin": "admin"
-          },
-          {
-            "lid": "56556817281043@lid",
-            "id": "6287749511033@s.whatsapp.net",
-            "admin": "admin"
-          },
-          {
-            "lid": "58833032491136@lid",
-            "id": "6285232391091@s.whatsapp.net",
-            "admin": null
-          },
-          {
-            "lid": "226663140991110@lid",
-            "id": "31657851239@s.whatsapp.net",
-            "admin": null
-          }
-        ],
-        "groupOwner": "",
-        "user": {
-          "lid": "136786823110789@lid",
-          "id": "6289528364725@s.whatsapp.net",
-          "admin": "admin"
-        },
-        "bot": {
-          "lid": "136786823110789@lid",
-          "id": "6289528364725@s.whatsapp.net",
-          "admin": "admin"
-        },
-        "isRAdmin": false,
-        "isAdmin": true,
-        "isBotAdmin": true,
-        "type": "conversation",
-        "content": "{\"conversation\":\"R\",\"messageContextInfo\":{\"messageSecret\":\"2KHFeEMYM87DYuFh+Eoew9DNe7ciFMdDAOHh6V4NClI=\"}}",
-        "botJid": "6289528364725@s.whatsapp.net",
-        "botLid": "136786823110789@lid",
-        "senderNumber": "6289528364725",
-        "botNumber": "6289528364725",
-        "mentionByTag": [],
-        "mentionByReply": "",
-        "mention": false,
-        "body": "R",
-        "args": [],
-        "numberQuery": "",
-        "msg": "R",
-        "myButton": false,
-        "ucapanWaktu": "[ 🏜️ ] Selamat pagi",
-        "text": "R",
-        "mentionedJid": [],
-        "quoted": null,
-        "plugin": "Owner/reset.js"
-      },
-      "from": "120363406862251533@g.us"
-    }
+    "notifGempa": {}
   },
   "settings": {
     "settingbot": {
