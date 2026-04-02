@@ -118,7 +118,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169338773
+      "lastSeen": 1775169899017
     },
     "5215539356057@s.whatsapp.net": {
       "sticker": {},
@@ -142,7 +142,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169746837
+      "lastSeen": 1775169919710
     },
     "6287710330665@s.whatsapp.net": {
       "sticker": {},
@@ -254,7 +254,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169807657
+      "lastSeen": 1775169921475
     },
     "62882003633210@s.whatsapp.net": {
       "sticker": {},
@@ -287,6 +287,30 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775169881318
+    },
+    "6289530745882@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775169900488
+    },
+    "6285259603024@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775169907587
+    },
+    "6285977651982@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775169914923
     }
   },
   "chats": {
@@ -569,6 +593,26 @@
       "antimedia": false,
       "antipromosi": false,
       "antidelete": false
+    },
+    "254386953576674@lid": {
+      "id": "254386953576674@lid",
+      "hit": 0,
+      "welcome": false,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiporn": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": false,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
     }
   },
   "data": [],
@@ -583,7 +627,7 @@
   "others": {
     "runtime": {
       "runtime": 1775169271991,
-      "lastTime": 1775169859057
+      "lastTime": 1775169919058
     },
     "antiSticker": [],
     "setTime": [
