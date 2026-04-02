@@ -40,7 +40,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775169252238
+      "lastSeen": 1775169262709
     },
     "6281359932022@s.whatsapp.net": {
       "sticker": {},
@@ -167,6 +167,26 @@
       "antimedia": false,
       "antipromosi": false,
       "antidelete": false
+    },
+    "226663140991110@lid": {
+      "id": "226663140991110@lid",
+      "hit": 0,
+      "welcome": false,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiporn": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": false,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
     }
   },
   "data": [],
@@ -179,7 +199,10 @@
   ],
   "listerror": [],
   "others": {
-    "runtime": null,
+    "runtime": {
+      "runtime": 1775169271991,
+      "lastTime": 1775169271991
+    },
     "antiSticker": [],
     "restart": null,
     "setTime": [],
