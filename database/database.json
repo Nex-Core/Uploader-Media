@@ -64,6 +64,11 @@
       "cmd": ">",
       "succes": 5,
       "failed": 0
+    },
+    {
+      "cmd": "Listgc",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "allcommand": [
@@ -79,7 +84,8 @@
     "Delswgc",
     "Play",
     "Gf",
-    ">"
+    ">",
+    "Listgc"
   ],
   "users": {
     "628211231248@s.whatsapp.net": {
@@ -124,11 +130,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 37,
+      "hit": 38,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176247728
+      "lastSeen": 1775176446337
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -1219,7 +1225,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176305952
+      "lastSeen": 1775176462022
     },
     "6285185011474@s.whatsapp.net": {
       "sticker": {},
@@ -1644,6 +1650,22 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775176404769
+    },
+    "6282248498320@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775176451148
+    },
+    "6282252509320@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775176462632
     }
   },
   "chats": {
@@ -1709,7 +1731,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 22,
+      "hit": 23,
       "welcome": true,
       "bye": false,
       "sWelcome": "",
@@ -2219,7 +2241,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 37
+      "totalcmd": 38
     }
   ],
   "listerror": [],
