@@ -69,6 +69,11 @@
       "cmd": "Listgc",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "$",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "allcommand": [
@@ -85,7 +90,8 @@
     "Play",
     "Gf",
     ">",
-    "Listgc"
+    "Listgc",
+    "$"
   ],
   "users": {
     "628211231248@s.whatsapp.net": {
@@ -130,11 +136,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 41,
+      "hit": 42,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177607239
+      "lastSeen": 1775177679941
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -190,7 +196,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177648957
+      "lastSeen": 1775177670451
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -865,7 +871,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775174698485
+      "lastSeen": 1775177660502
     },
     "6283829214981@s.whatsapp.net": {
       "sticker": {},
@@ -1721,7 +1727,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177630897
+      "lastSeen": 1775177680246
     },
     "6287837001319@s.whatsapp.net": {
       "sticker": {},
@@ -1745,7 +1751,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177648917
+      "lastSeen": 1775177677615
     },
     "6285194158524@s.whatsapp.net": {
       "sticker": {},
@@ -1761,7 +1767,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177592801
+      "lastSeen": 1775177662482
     },
     "6283135922114@s.whatsapp.net": {
       "sticker": {},
@@ -1929,7 +1935,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177645297
+      "lastSeen": 1775177661072
     },
     "628988040874@s.whatsapp.net": {
       "sticker": {},
@@ -1937,7 +1943,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177639341
+      "lastSeen": 1775177652824
     }
   },
   "chats": {
@@ -2183,7 +2189,7 @@
     },
     "120363162611448409@g.us": {
       "id": "120363162611448409@g.us",
-      "hit": 2,
+      "hit": 3,
       "welcome": false,
       "bye": false,
       "sWelcome": "",
@@ -2532,14 +2538,14 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 43
+      "totalcmd": 44
     }
   ],
   "listerror": [],
   "others": {
     "runtime": {
-      "runtime": 1775169271991,
-      "lastTime": 1775171760532
+      "runtime": 1775177667244,
+      "lastTime": 1775177667244
     },
     "antiSticker": [],
     "setTime": [
