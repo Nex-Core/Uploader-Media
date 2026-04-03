@@ -1,65 +1,81 @@
 [
   {
     "name": "Aku Fearless (6 Tahun).",
-    "command": "sf",
-    "query": "database.js-text",
-    "time": "06:05:18",
+    "command": ">",
+    "query": "global.db.data.chats",
+    "time": "07:28:50",
     "number": "6289528364725",
     "group": "SAHRE BOKEP"
   },
   {
     "name": "Aku Fearless (6 Tahun).",
-    "command": "gf",
-    "query": "register.js-text",
-    "time": "06:05:26",
+    "command": ">",
+    "query": "global.dbChats",
+    "time": "07:29:28",
     "number": "6289528364725",
     "group": "SAHRE BOKEP"
   },
   {
     "name": "Aku Fearless (6 Tahun).",
-    "command": "gf",
-    "query": "database.js-text",
-    "time": "06:05:38",
+    "command": ">",
+    "query": "global.dbChats.data",
+    "time": "07:29:48",
     "number": "6289528364725",
     "group": "SAHRE BOKEP"
   },
   {
     "name": "Aku Fearless (6 Tahun).",
-    "command": "sf",
-    "query": "group",
-    "time": "06:15:48",
-    "number": "6289528364725",
-    "group": "SAHRE BOKEP"
-  },
-  {
-    "name": "Aku Fearless (6 Tahun).",
-    "command": "sf",
-    "query": "welcome",
-    "time": "06:16:07",
-    "number": "6289528364725",
-    "group": "SAHRE BOKEP"
-  },
-  {
-    "name": "Aku Fearless (6 Tahun).",
-    "command": "sf",
-    "query": "_anti-sw-gc",
-    "time": "06:16:20",
-    "number": "6289528364725",
-    "group": "SAHRE BOKEP"
-  },
-  {
-    "name": "Aku Fearless (6 Tahun).",
-    "command": "r",
+    "command": "menu",
     "query": "",
-    "time": "06:16:26",
+    "time": "07:30:09",
     "number": "6289528364725",
     "group": "SAHRE BOKEP"
   },
   {
     "name": "Aku Fearless (6 Tahun).",
-    "command": "welcome",
-    "query": "on",
-    "time": "06:27:18",
+    "command": "gf",
+    "query": "database.js-text",
+    "time": "07:30:20",
+    "number": "6289528364725",
+    "group": "SAHRE BOKEP"
+  },
+  {
+    "name": "Aku Fearless (6 Tahun).",
+    "command": ">",
+    "query": "db.data.chats",
+    "time": "07:30:47",
+    "number": "6289528364725",
+    "group": "SAHRE BOKEP"
+  },
+  {
+    "name": "Aku Fearless (6 Tahun).",
+    "command": "listgc",
+    "query": "",
+    "time": "07:34:06",
+    "number": "6289528364725",
+    "group": "SAHRE BOKEP"
+  },
+  {
+    "name": "Aku Fearless (6 Tahun).",
+    "command": ">",
+    "query": "const groups = global.db.data.chats || {};\nlet list = '';\nfor (const id in groups) {\n const g = groups[id];\n if (id.endsWith('@g.us')) {\n list += `• ${id.split('@')[0]}: welcome=${g.welcome ? '✅' : '❌'}, delswgc=${g.delswgc ? '✅' : '❌'}\\n`;\n }\n}\nm.reply(list || 'Tidak ada grup terdaftar');",
+    "time": "07:35:01",
+    "number": "6289528364725",
+    "group": "SAHRE BOKEP"
+  },
+  {
+    "name": "Aku Fearless (6 Tahun).",
+    "command": ">",
+    "query": "let chats = global.db.data.chats || {};\nlet updated = 0;\nfor (let id in chats) {\n if (id.endsWith('@g.us')) {\n let chat = chats[id];\n let changed = false;\n if (chat.welcome === true) {\n chat.welcome = false;\n changed = true;\n }\n if (chat.delswgc === true) {\n chat.delswgc = false;\n changed = true;\n }\n if (changed) updated++;\n }\n}\nglobal.__DB_DIRTY__ = true;\nawait global.db.write();\nm.reply(`✅ Welcome dan delswgc dimatikan di ${updated} grup.`);",
+    "time": "07:36:00",
+    "number": "6289528364725",
+    "group": "SAHRE BOKEP"
+  },
+  {
+    "name": "Aku Fearless (6 Tahun).",
+    "command": ">",
+    "query": "const groups = global.db.data.chats || {};\nlet list = '';\nfor (const id in groups) {\n const g = groups[id];\n if (id.endsWith('@g.us')) {\n list += `• ${id.split('@')[0]}: welcome=${g.welcome ? '✅' : '❌'}, delswgc=${g.delswgc ? '✅' : '❌'}\\n`;\n }\n}\nm.reply(list || 'Tidak ada grup terdaftar');",
+    "time": "07:36:08",
     "number": "6289528364725",
     "group": "SAHRE BOKEP"
   }
