@@ -7,7 +7,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "cmd": "Gf",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -124,11 +124,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 34,
+      "hit": 36,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176188766
+      "lastSeen": 1775176220174
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -184,7 +184,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176188899
+      "lastSeen": 1775176223927
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -368,7 +368,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176198930
+      "lastSeen": 1775176230055
     },
     "status@broadcast": {
       "sticker": {}
@@ -915,7 +915,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176169699
+      "lastSeen": 1775176212010
     },
     "6289528497612@s.whatsapp.net": {
       "sticker": {},
@@ -1219,7 +1219,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176200163
+      "lastSeen": 1775176225997
     },
     "6285185011474@s.whatsapp.net": {
       "sticker": {},
@@ -1483,7 +1483,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176197177
+      "lastSeen": 1775176215136
     },
     "6285217840646@s.whatsapp.net": {
       "sticker": {},
@@ -1669,7 +1669,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 19,
+      "hit": 21,
       "welcome": true,
       "bye": false,
       "sWelcome": "",
@@ -2160,7 +2160,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 34
+      "totalcmd": 36
     }
   ],
   "listerror": [],
