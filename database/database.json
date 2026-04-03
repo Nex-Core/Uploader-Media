@@ -190,7 +190,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176763359
+      "lastSeen": 1775176811361
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -1714,6 +1714,22 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775176661346
+    },
+    "6288970482189@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775176784711
+    },
+    "6287837001319@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775176805576
     }
   },
   "chats": {
@@ -2266,6 +2282,25 @@
     },
     "120363044592555807@g.us": {
       "id": "120363044592555807@g.us",
+      "hit": 0,
+      "welcome": false,
+      "bye": false,
+      "sWelcome": "",
+      "sBye": "",
+      "banchat": false,
+      "antiDeleteDm": true,
+      "autogempa": false,
+      "prefix": null,
+      "aiPrivate": false,
+      "delswgc": false,
+      "antilinkgc": false,
+      "antilinkch": false,
+      "antimedia": false,
+      "antipromosi": false,
+      "antidelete": false
+    },
+    "120363420619813717@g.us": {
+      "id": "120363420619813717@g.us",
       "hit": 0,
       "welcome": false,
       "bye": false,
