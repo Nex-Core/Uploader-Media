@@ -62,7 +62,7 @@
     },
     {
       "cmd": ">",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -124,11 +124,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 32,
+      "hit": 33,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176130579
+      "lastSeen": 1775176168483
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -184,7 +184,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176112379
+      "lastSeen": 1775176168888
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -368,7 +368,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176117344
+      "lastSeen": 1775176168277
     },
     "status@broadcast": {
       "sticker": {}
@@ -915,7 +915,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775172652582
+      "lastSeen": 1775176169699
     },
     "6289528497612@s.whatsapp.net": {
       "sticker": {},
@@ -1067,7 +1067,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775173700883
+      "lastSeen": 1775176148370
     },
     "628981182231@s.whatsapp.net": {
       "sticker": {},
@@ -1483,7 +1483,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775175344032
+      "lastSeen": 1775176164301
     },
     "6285217840646@s.whatsapp.net": {
       "sticker": {},
@@ -1571,7 +1571,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176120624
+      "lastSeen": 1775176140658
     },
     "6285345502696@s.whatsapp.net": {
       "sticker": {},
@@ -1653,7 +1653,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 17,
+      "hit": 18,
       "welcome": true,
       "bye": false,
       "sWelcome": "",
@@ -2144,7 +2144,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 32
+      "totalcmd": 33
     }
   ],
   "listerror": [],
