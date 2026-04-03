@@ -2,7 +2,7 @@
   "dashboard": [
     {
       "cmd": "Sf",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "cmd": "R",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -114,11 +114,11 @@
     },
     "31657851239@s.whatsapp.net": {
       "sticker": {},
-      "hit": 0,
+      "hit": 2,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176670676
+      "lastSeen": 1775176683944
     },
     "6281359932022@s.whatsapp.net": {
       "sticker": {},
@@ -2289,7 +2289,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 41
+      "totalcmd": 43
     }
   ],
   "listerror": [],
