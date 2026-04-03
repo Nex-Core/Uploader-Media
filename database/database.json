@@ -2,7 +2,7 @@
   "dashboard": [
     {
       "cmd": "Sf",
-      "succes": 6,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -136,11 +136,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 42,
+      "hit": 44,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177679941
+      "lastSeen": 1775177708300
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -252,7 +252,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176751832
+      "lastSeen": 1775177690631
     },
     "6285717419239@s.whatsapp.net": {
       "sticker": {},
@@ -1727,7 +1727,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177680246
+      "lastSeen": 1775177701202
     },
     "6287837001319@s.whatsapp.net": {
       "sticker": {},
@@ -1751,7 +1751,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177677615
+      "lastSeen": 1775177707785
     },
     "6285194158524@s.whatsapp.net": {
       "sticker": {},
@@ -1767,7 +1767,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177662482
+      "lastSeen": 1775177708484
     },
     "6283135922114@s.whatsapp.net": {
       "sticker": {},
@@ -1847,7 +1847,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177595524
+      "lastSeen": 1775177698899
     },
     "6282231025632@s.whatsapp.net": {
       "sticker": {},
@@ -1935,7 +1935,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775177661072
+      "lastSeen": 1775177705964
     },
     "628988040874@s.whatsapp.net": {
       "sticker": {},
@@ -2009,7 +2009,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 26,
+      "hit": 28,
       "welcome": false,
       "bye": false,
       "sWelcome": "",
@@ -2538,7 +2538,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 44
+      "totalcmd": 46
     }
   ],
   "listerror": [],
