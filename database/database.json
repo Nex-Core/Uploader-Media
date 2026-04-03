@@ -59,6 +59,11 @@
       "cmd": "Gf",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": ">",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "allcommand": [
@@ -73,7 +78,8 @@
     "Setwelcome",
     "Delswgc",
     "Play",
-    "Gf"
+    "Gf",
+    ">"
   ],
   "users": {
     "628211231248@s.whatsapp.net": {
@@ -118,11 +124,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 30,
+      "hit": 31,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775172552969
+      "lastSeen": 1775176105556
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -178,7 +184,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176069948
+      "lastSeen": 1775176101240
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -362,7 +368,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176068733
+      "lastSeen": 1775176108509
     },
     "status@broadcast": {
       "sticker": {}
@@ -829,7 +835,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775175956703
+      "lastSeen": 1775176106551
     },
     "6283862862320@s.whatsapp.net": {
       "sticker": {},
@@ -1085,7 +1091,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176073467
+      "lastSeen": 1775176092137
     },
     "62882008549343@s.whatsapp.net": {
       "sticker": {},
@@ -1565,7 +1571,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176078087
+      "lastSeen": 1775176098225
     },
     "6285345502696@s.whatsapp.net": {
       "sticker": {},
@@ -1639,7 +1645,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 15,
+      "hit": 16,
       "welcome": true,
       "bye": false,
       "sWelcome": "",
@@ -2130,7 +2136,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 30
+      "totalcmd": 31
     }
   ],
   "listerror": [],
