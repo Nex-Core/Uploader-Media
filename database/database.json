@@ -62,7 +62,7 @@
     },
     {
       "cmd": ">",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     }
   ],
@@ -124,11 +124,11 @@
     },
     "6289528364725@s.whatsapp.net": {
       "sticker": {},
-      "hit": 33,
+      "hit": 34,
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176168483
+      "lastSeen": 1775176188766
     },
     "6287833658540@s.whatsapp.net": {
       "sticker": {},
@@ -184,7 +184,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176168888
+      "lastSeen": 1775176188899
     },
     "62895366627203@s.whatsapp.net": {
       "sticker": {},
@@ -368,7 +368,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176168277
+      "lastSeen": 1775176198930
     },
     "status@broadcast": {
       "sticker": {}
@@ -1219,7 +1219,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775175604289
+      "lastSeen": 1775176200163
     },
     "6285185011474@s.whatsapp.net": {
       "sticker": {},
@@ -1483,7 +1483,7 @@
       "exp": 0,
       "level": 0,
       "money": 0,
-      "lastSeen": 1775176164301
+      "lastSeen": 1775176197177
     },
     "6285217840646@s.whatsapp.net": {
       "sticker": {},
@@ -1588,6 +1588,22 @@
       "level": 0,
       "money": 0,
       "lastSeen": 1775176137391
+    },
+    "628983734844@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775176181794
+    },
+    "6281293123165@s.whatsapp.net": {
+      "sticker": {},
+      "hit": 0,
+      "exp": 0,
+      "level": 0,
+      "money": 0,
+      "lastSeen": 1775176196681
     }
   },
   "chats": {
@@ -1653,7 +1669,7 @@
     },
     "120363406862251533@g.us": {
       "id": "120363406862251533@g.us",
-      "hit": 18,
+      "hit": 19,
       "welcome": true,
       "bye": false,
       "sWelcome": "",
@@ -2144,7 +2160,7 @@
     {
       "id": "run",
       "expired": 1775255626198,
-      "totalcmd": 33
+      "totalcmd": 34
     }
   ],
   "listerror": [],
