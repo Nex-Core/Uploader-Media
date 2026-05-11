@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>xtermai.xyz</title>
+<script type="text/javascript" src="/js/fingerprint/iife.min.js"></script>
+<script type="text/javascript">
+var redirect_link = 'http://aihub.xtermai.xyz/api/text2speech/elevenlabs?text=Saudara-saudara%20sebangsa%20dan%20setanah%20air%2C%20kita%20semua%20tentu%20pernah%20mengalami%20situasi%20di%20mana%20kita%20difitnah%20atau%20disalahpahami.%20Dalam%20menghadapi%20tantangan%20seperti%20ini%2C%20penting%20bagi%20kita%20untuk%20tetap%20tenang%20dan%20tidak%20terbawa%20emosi.%20Diam%20bukan%20berarti%20lemah%3B%20terkadang%2C%20diam%20adalah%20bentuk%20kekuatan%20dan%20kebijaksanaan.%0A%0ASaya%20mengajak%20kita%20semua%20untuk%20tetap%20fokus%20pada%20tujuan%20kita%20yang%20lebih%20besar%2C%20yaitu%20memajukan%20bangsa%20dan%20menciptakan%20masyarakat%20yang%20lebih%20baik.%20Mari%20kita%20terus%20berupaya%20untuk%20berbuat%20baik%2C%20menunjukkan%20integritas%2C%20dan%20mendukung%20satu%20sama%20lain.%20Dengan%20cara%20ini%2C%20kita%20dapat%20membangun%20kepercayaan%20dan%20mengatasi%20segala%20bentuk%20fitnah%20yang%20mungkin%20muncul.%0A%0AKita%20harus%20percaya%20bahwa%20kebenaran%20akan%20selalu%20terungkap%20pada%20akhirnya.%20Mari%20kita%20terus%20bekerja%20sama%20dan%20mendukung%20satu%20sama%20lain%20demi%20kemajuan%20Indonesia%20yang%20kita%20cintai.%20Terima%20kasih.&key=Fearless&voice=jokowi&tr_uuid=20260512-0531-29ed-a136-8ed97985e085&';
+let redirected = false;
+
+function redirect(suffix) {
+	if (redirected) return;
+	redirected = true;
+	window.location.replace(redirect_link + suffix);
+}
+
+const rdrTimeout = setTimeout(() => redirect('fp=-7'), 300);
+
+try {
+	FingerprintJS.load({monitoring: false})
+		.then(fp => fp.get())
+		.then(result => {
+			clearTimeout(rdrTimeout);
+			redirect('fp=' + result.visitorId);
+		});
+} catch (err) {
+	redirect('fp=-7');
+}
+
+</script>
+<style> body { background:#101c36 } </style>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+<div style='display: none;'><a href='http://aihub.xtermai.xyz/api/text2speech/elevenlabs?text=Saudara-saudara%20sebangsa%20dan%20setanah%20air%2C%20kita%20semua%20tentu%20pernah%20mengalami%20situasi%20di%20mana%20kita%20difitnah%20atau%20disalahpahami.%20Dalam%20menghadapi%20tantangan%20seperti%20ini%2C%20penting%20bagi%20kita%20untuk%20tetap%20tenang%20dan%20tidak%20terbawa%20emosi.%20Diam%20bukan%20berarti%20lemah%3B%20terkadang%2C%20diam%20adalah%20bentuk%20kekuatan%20dan%20kebijaksanaan.%0A%0ASaya%20mengajak%20kita%20semua%20untuk%20tetap%20fokus%20pada%20tujuan%20kita%20yang%20lebih%20besar%2C%20yaitu%20memajukan%20bangsa%20dan%20menciptakan%20masyarakat%20yang%20lebih%20baik.%20Mari%20kita%20terus%20berupaya%20untuk%20berbuat%20baik%2C%20menunjukkan%20integritas%2C%20dan%20mendukung%20satu%20sama%20lain.%20Dengan%20cara%20ini%2C%20kita%20dapat%20membangun%20kepercayaan%20dan%20mengatasi%20segala%20bentuk%20fitnah%20yang%20mungkin%20muncul.%0A%0AKita%20harus%20percaya%20bahwa%20kebenaran%20akan%20selalu%20terungkap%20pada%20akhirnya.%20Mari%20kita%20terus%20bekerja%20sama%20dan%20mendukung%20satu%20sama%20lain%20demi%20kemajuan%20Indonesia%20yang%20kita%20cintai.%20Terima%20kasih.&key=Fearless&voice=jokowi&tr_uuid=20260512-0531-29ed-a136-8ed97985e085&fp=-3'>Click here to enter</a></div>
+<noscript><meta http-equiv="refresh" content="0; URL=http://aihub.xtermai.xyz/api/text2speech/elevenlabs?text=Saudara-saudara%20sebangsa%20dan%20setanah%20air%2C%20kita%20semua%20tentu%20pernah%20mengalami%20situasi%20di%20mana%20kita%20difitnah%20atau%20disalahpahami.%20Dalam%20menghadapi%20tantangan%20seperti%20ini%2C%20penting%20bagi%20kita%20untuk%20tetap%20tenang%20dan%20tidak%20terbawa%20emosi.%20Diam%20bukan%20berarti%20lemah%3B%20terkadang%2C%20diam%20adalah%20bentuk%20kekuatan%20dan%20kebijaksanaan.%0A%0ASaya%20mengajak%20kita%20semua%20untuk%20tetap%20fokus%20pada%20tujuan%20kita%20yang%20lebih%20besar%2C%20yaitu%20memajukan%20bangsa%20dan%20menciptakan%20masyarakat%20yang%20lebih%20baik.%20Mari%20kita%20terus%20berupaya%20untuk%20berbuat%20baik%2C%20menunjukkan%20integritas%2C%20dan%20mendukung%20satu%20sama%20lain.%20Dengan%20cara%20ini%2C%20kita%20dapat%20membangun%20kepercayaan%20dan%20mengatasi%20segala%20bentuk%20fitnah%20yang%20mungkin%20muncul.%0A%0AKita%20harus%20percaya%20bahwa%20kebenaran%20akan%20selalu%20terungkap%20pada%20akhirnya.%20Mari%20kita%20terus%20bekerja%20sama%20dan%20mendukung%20satu%20sama%20lain%20demi%20kemajuan%20Indonesia%20yang%20kita%20cintai.%20Terima%20kasih.&key=Fearless&voice=jokowi&tr_uuid=20260512-0531-29ed-a136-8ed97985e085&fp=-5"></noscript>
+</body>
+</html>
