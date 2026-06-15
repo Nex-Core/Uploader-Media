@@ -5,5 +5,12 @@
     "joinTime": null,
     "lastOffline": "2026-06-15T06:56:43.585Z",
     "isOnline": false
+  },
+  "FellNexus01": {
+    "name": "FellNexus01",
+    "xuid": "2535444114239970",
+    "joinTime": "2026-06-15T07:16:55.211Z",
+    "lastOffline": null,
+    "isOnline": true
   }
 }
